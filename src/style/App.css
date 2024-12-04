@@ -1,0 +1,20 @@
+.profile-card {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 0 4px 6px rgba(19, 245, 215, 0.1);
+  text-align: center;
+  margin: 20px auto;
+  background-color: #c93d7e;
+}
+
+.profile-card h2 {
+  margin: 0;
+  color: #1709e4;
+}
+
+.profile-card p {
+  margin: 5px 0;
+  color: #555;
+}
